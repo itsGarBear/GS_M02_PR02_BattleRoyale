@@ -3,7 +3,7 @@
 ***Instructions:*** <br />
 Blinker: LShift to Blink <br />
 Flyer: LShift to Rocket Jump, Hold E to hover <br />
-Support: LShift to switch between Speed Boost / Healing
+Aura: LShift to switch between Speed Boost / Healing
 
 Link to playable: https://itsgarbear.github.io/GS_M02_PR02_BattleRoyale/
 
