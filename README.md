@@ -1,6 +1,6 @@
 # GS_M02_PR02_BattleRoyale
 
-**Instructions:** <br />
+***Instructions:*** <br />
 Blinker: LShift to Blink <br />
 Flyer: LShift to Rocket Jump, Hold E to hover <br />
 Support: LShift to switch between Speed Boost / Healing
